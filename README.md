@@ -11,7 +11,6 @@ This project demonstrates how to build a simple **Retrieval-Augmented Generation
 - ✅ Query the document using **Groq's LLaMA3 model**
 - ✅ Lightweight, fast, and works in Colab or locally
 
----
 
-## 📂 Project Structure
+
 
